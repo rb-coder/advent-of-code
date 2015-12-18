@@ -1,0 +1,21 @@
+{
+  "name": "day4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "precompile": "mkdir -p ./dist/",
+    "compile": "lispy ./src/index.ls ./dist/index.js",
+    "prestart": "npm run compile",
+    "start": "node ./dist/index.js"
+  },
+  "author": "rb-coder",
+  "license": "MIT",
+  "devDependencies": {
+    "lispyscript": "^1.0.1"
+  },
+  "dependencies": {
+    "js-md5": "^0.3.0"
+  }
+}
