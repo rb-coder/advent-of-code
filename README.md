@@ -1,1 +1,12 @@
 # advent-of-code
+
+Personal goal: solve each quest with a different language / concept
+
+* Day 01 - RxJS (ES2015)
+* Day 02 - coffeescript
+* Day 03 - TypeScript
+* Day 04 - lispyscript
+* Day 05 - php
+* Day 06 - ruby
+* Day 07 - JavaScript (ES5)
+* Day 08 - perl
