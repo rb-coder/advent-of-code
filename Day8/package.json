@@ -1,0 +1,12 @@
+{
+  "name": "day8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.pl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "perl index.pl"	
+  },
+  "author": "rb-coder",
+  "license": "MIT"
+}
