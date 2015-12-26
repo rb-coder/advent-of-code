@@ -10,3 +10,4 @@ Personal goal: solve each quest with a different language / concept
 * Day 06 - ruby
 * Day 07 - JavaScript (ES5)
 * Day 08 - perl
+* Day 09 - python
