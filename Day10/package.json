@@ -1,0 +1,13 @@
+{
+  "name": "day10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prestart": "javac src/LookAndSay.java",
+    "start": "java -cp src/ LookAndSay 1321131112 50"
+  },
+  "author": "rb-coder",
+  "license": "MIT"
+}
