@@ -13,3 +13,4 @@ Personal goal: solve each quest with a different language / concept
 * Day 09 - python
 * Day 10 - Java
 * Day 11 - Scala
+* Day 12 - Javascript (ES6)
